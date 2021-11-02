@@ -1,2 +1,23 @@
+atomicwrites==1.4.0
+attrs==21.2.0
+backports.functools-lru-cache==1.6.4
+certifi==2021.10.8
+charset-normalizer==2.0.7
+colorama==0.4.4
+configparser==5.0.2
+crayons==0.4.0
+future==0.18.2
+idna==3.3
+iniconfig==1.1.1
+packaging==21.0
+pluggy==1.0.0
+py==1.10.0
+pyparsing==2.4.7
 pytest==6.2.5
+requests==2.26.0
+selene @ git+https://github.com/yashaka/selene.git@e316f833651daefe7634fff29891b4813d24b198
 selenium==3.141.0
+six==1.16.0
+toml==0.10.2
+urllib3==1.26.7
+webdriver-manager==3.5.0
